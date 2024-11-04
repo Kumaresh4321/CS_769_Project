@@ -1,7 +1,7 @@
 # CS 769 Project: Multi-LLM Routing on Use Case and User Preferences
 ### Members: Abhijnya Menakur, Kumaresh Suresh Babu, and Kincannon Wilson
 
-Our project is titled “Multi-LLM Routing on Use Case and User Preferences”. This project will be an extension to the paper “RouterBench: A Benchmark for Multi-LLM Routing System”. Our members are Abhijnya Menakur, Kumaresh Suresh Babu, and Kincannon Wilson. 
+Our project is titled “**Multi-LLM Routing on Use Case and User Preferences**”. This project will be an extension to the paper “**RouterBench: A Benchmark for Multi-LLM Routing System**”. Our members are Abhijnya Menakur, Kumaresh Suresh Babu, and Kincannon Wilson. 
 
 In addition, five members from the CS 839 course on Foundation Models are also contributing to the project. These members are Yancheng Zhu, Jiawei Zhang, Xinyue Lin, Tianyi Li, Fahad Touseef, and Aydan Bailey.
 
