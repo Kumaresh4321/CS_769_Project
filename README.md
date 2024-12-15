@@ -157,19 +157,19 @@ You can explore other experiments like clustering (`exp2_cluster_similarity.py`)
 
 ### Step 6: Execute the Router
 
-The main routing logic is implemented in `router.py`. **Make sure to set your own LLM API key before running the script**. The API key can be configured in `router.py` at the following line:
+The main routing logic is implemented in `router.py`. **Make sure to set your own LLM API key before running the script**. The API key can be configured in `utils.py` at the following line:
 
 ```python
-api_key = "YOUR_LLM_API_KEY"
+headers={
+    "Authorization": "Bearer YOUR_LLM_API_KEY"
+}
 ```
-
-Replace `YOUR_LLM_API_KEY` with your valid API key for the respective LLM provider (e.g., OpenAI, Hugging Face, Anthropic).
-
+Replace YOUR_LLM_API_KEY with your valid API key for the respective LLM provider (e.g., OpenAI, Hugging Face, Anthropic).
 Run this script to analyze and route prompts:
-
-```bash
+```python
 python router.py
-```
+ ```
+
 
 ### Step 7: Visualize Results (Optional)
 
